@@ -1,6 +1,6 @@
 # go
 
-Comments:
+#Heading2 Comments:
 <br>
 // - Single line comment:
 <br>
@@ -10,8 +10,10 @@ Multi line comment:
 adasd
 kjhsdf
 */
-
+<br>
 #-------------------------
+<br>
+#Heading2 Data Types:
 <br>
 String
     <br>
@@ -52,7 +54,7 @@ Maps // Is a collection of key value pairs:
 #-------------------------
 <br>
 
-Variables:
+#Heading2 Variables:
 
 Declaring a variable
 
@@ -77,7 +79,7 @@ Short variable declaration
 
 #------------------------
 <br>
-Variable Scope:
+#Heading2 Variable Scope:
 
 Blocks
 { // outer block
