@@ -23,9 +23,12 @@ Boolean
     True
     False
 
-Array & Slices 
+Array & Slices
+    <br>
     [1,2,4,6,7,34]
+    <br>
     ["foo","bar","blah"]
+    <br>
     [7.0,2.4,5.6]
 
 #Arrays are a fixed-length data structure, meaning that their size is known at compile time.
