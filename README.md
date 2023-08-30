@@ -11,7 +11,6 @@ adasd
 kjhsdf
 */
 <br>
-#-------------------------
 
 # Data Types:
 <br>
@@ -50,8 +49,6 @@ Maps // Is a collection of key value pairs:
     "x" -> 30
     <br>
     1 -> 100
-
-#-------------------------
 <br>
 
 # Variables:
@@ -77,7 +74,6 @@ Short hand way
 Short variable declaration
     s := "foo, bar"
 
-#------------------------
 <br>
 # Variable Scope:
 
@@ -92,6 +88,4 @@ Blocks
 
 Inner blocks can access variables declared within outer blocks
 Outer blocks cannot access variables declared within inner blocks
-
-#------------------------
 
