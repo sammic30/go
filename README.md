@@ -10,20 +10,26 @@ kjhsdf
 */
 
 #-------------------------
-
+<br>
 String
-    "abd
+    <br>
+    "abd"
+    <br>
     "ABD kkjf Blah"
 
 Numbers
+    <br>
     Integer
+    <br>
     Float
 
-Boolean
+Boolean:
+    <br>
     True
+    <br>
     False
 
-Array & Slices
+Array & Slices:
     <br>
     [1,2,4,6,7,34]
     <br>
@@ -32,13 +38,17 @@ Array & Slices
     [7.0,2.4,5.6]
 
 #Arrays are a fixed-length data structure, meaning that their size is known at compile time.
+<br>
 #Slices, on the other hand, are a variable-length data structure, meaning that their size can change at runtime.
 
-Maps // Is a collection of key value pairs
+Maps // Is a collection of key value pairs:
+    <br>
     "x" -> 30
+    <br>
     1 -> 100
 
 #-------------------------
+<br>
 
 Variables:
 
@@ -64,7 +74,7 @@ Short variable declaration
     s := "foo, bar"
 
 #------------------------
-
+<br>
 Variable Scope:
 
 Blocks
