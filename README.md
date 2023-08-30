@@ -1,9 +1,11 @@
 # go
 
 Comments:
-// - Single line comment
-
-Multi line comment
+<br>
+// - Single line comment:
+<br>
+Multi line comment:
+<br>
 /*
 adasd
 kjhsdf
