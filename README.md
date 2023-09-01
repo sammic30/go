@@ -88,4 +88,51 @@ Blocks
 
 Inner blocks can access variables declared within outer blocks
 Outer blocks cannot access variables declared within inner blocks
+<br>
+# Comparison Operators
+```
+== equal
+!= not equal
+< less than
+<= less than or equal to
+> greater than
+>= greater than or equal to
+```
+<br>
+# Arithmetic Operators
+```
++ addition
+- subtraction
+* multiplication
+/ division
+% modulus
+++ increment
+-- decrement
+```
+<br>
+# Logical Operators
+```
+&& AND - // returns true, if both statements are true and returns false, if either of the statement is false.
+|| OR - // returns true, if one of the statement is true and returs false, when both statements are false.
+! NOT - // reverses the results, returns false if the expression evaluates to true and vice versa.
+```
+<br>
+# Assignment Operators
+```
+= assign
++= add and assign    // x+= y means x = x + y (assigns left operand with the addition result)
+-= sustract and assign
+*= multiply and assign
+/= divide and assign quotient // x/=y means x = x / y
+%= divide and assign modulus
+```
+<br>
+# Bitwise Operators
+```
+& AND
+| OR
+^ XOR - result of XOR is 1 if the two bits are opposite, example 0 and 1
+>> Right Shift
+<< Left Shift - shifts all bits towards left by a certain number of specified bits. The bit position that have been vacated by the left shift operator are filled with 0
+```
 
