@@ -98,9 +98,9 @@ Outer blocks cannot access variables declared within inner blocks
 > greater than
 >= greater than or equal to
 ```
-<br>
 # Arithmetic Operators
 ```
+<br>
 + addition
 - subtraction
 * multiplication
@@ -109,16 +109,16 @@ Outer blocks cannot access variables declared within inner blocks
 ++ increment
 -- decrement
 ```
-<br>
 # Logical Operators
 ```
+<br>
 && AND - // returns true, if both statements are true and returns false, if either of the statement is false.
 || OR - // returns true, if one of the statement is true and returs false, when both statements are false.
 ! NOT - // reverses the results, returns false if the expression evaluates to true and vice versa.
 ```
-<br>
 # Assignment Operators
 ```
+<br>
 = assign
 += add and assign    // x+= y means x = x + y (assigns left operand with the addition result)
 -= sustract and assign
@@ -126,8 +126,8 @@ Outer blocks cannot access variables declared within inner blocks
 /= divide and assign quotient // x/=y means x = x / y
 %= divide and assign modulus
 ```
-<br>
 # Bitwise Operators
+<br>
 ```
 & AND
 | OR
