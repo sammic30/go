@@ -127,8 +127,8 @@ Outer blocks cannot access variables declared within inner blocks
 %= divide and assign modulus
 ```
 # Bitwise Operators
-<br>
 ```
+<br>
 & AND
 | OR
 ^ XOR - result of XOR is 1 if the two bits are opposite, example 0 and 1
